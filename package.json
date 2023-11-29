@@ -1,0 +1,16 @@
+{
+  "name": "abop",
+  "version": "0.0.1",
+  "description": "Plants generated with L-systems following ABOP",
+  "scripts": {
+    "test": "node libs/test-runner.js ./test/*-test.js",
+    "lint": "eslint ."
+  },
+  "author": "Tobias Kolditz",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.6.0",
+    "browser-sync": "^2.29.3"
+  }
+}
