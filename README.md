@@ -9,6 +9,8 @@ Some of the results: https://verzettelung.com/23/11/27/
 npm run test
 # Lint
 npm run lint
+# Run in browser locally
+./serve
 ```
 
 ---
