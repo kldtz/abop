@@ -5,6 +5,8 @@ Generation of 2D plant SVGs using Lindenmayer Systems from *The algorithmic beau
 Some of the results: https://verzettelung.com/23/11/27/
 
 ```sh
+# Install
+npm install
 # Test
 npm run test
 # Lint
